@@ -1,7 +1,0 @@
-#ifndef VERSION_HPP__
-#define VERSION_HPP__
-
-#define pokedex_VERSION_MAJOR @pokedex_VERSION_MAJOR@
-#define pokedex_VERSION_MINOR @pokedex_VERSION_MINOR@
-
-#endif
